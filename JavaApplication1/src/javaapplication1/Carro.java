@@ -1,7 +1,5 @@
 package javaapplication1;
 
-x
-
     //Metodo para acelerar o objeto Carro
     public void acelerar(){
         velocidade += 10;
